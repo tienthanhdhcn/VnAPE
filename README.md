@@ -8,13 +8,13 @@ We release the first large-scale datasets including in-domain and out-of-domain 
 We show how the datasets got constructed and were utlised to train APE models in our **[paper](https://arxiv.org/abs/2104.12128)**:
 
     @inproceedings{Vu2021VnAPE,
-    title     = {Automatic Post-Editing for Vietnamese},
-    author    = {Vu, Thanh and Nguyen, Dai Quoc},
-    booktitle   = {Proceedings of ALTA 2021},
-    year      = {2021}
+    	title={Automatic Post-Editing for Vietnamese},
+    	author={Vu, Thanh and Nguyen, Dai Quoc},
+    	booktitle={Proceedings of ALTA 2021},
+    	year={2021}
     }
 
-**Please CITE** our paper when the datasets are used to help produce published results or incorporated into other software.
+**Please CITE** our paper when the datasets are used (for research-only purpose) to produce published results or incorporated into other software.
 
 ## Datasets
 
